@@ -28,15 +28,15 @@ Simple task manager with full CRUD operations and persistence in SQL Server. Cre
 
 3.Adjust the connection string
 
---Locate the connectionString setting in the code
+-Locate the connectionString setting in the code
 
---Change the Data Source and Database values to point to your SQL Server instance
+-Change the Data Source and Database values to point to your SQL Server instance
 
 4. Restore and Run
 
---dotnet restore
+-dotnet restore
 
---dotnet build
+-dotnet build
 
---dotnet run
+-dotnet run
 
