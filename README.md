@@ -26,14 +26,7 @@ Simple task manager with full CRUD operations and persistence in SQL Server. Cre
 
 2.Open in VS Code.
 
-3.Adjust the connection string
-
--Locate the connectionString setting in the code
--Change the Data Source and Database values to point to your SQL Server instance
-
-4. Restore and Run
-
--dotnet restore
--dotnet build
--dotnet run
+3. Update the **database connection string** in your configuration. Modify the `Data Source` or file path and adjust column names if your schema differs.
+   
+4. Build and run the project.  
 
