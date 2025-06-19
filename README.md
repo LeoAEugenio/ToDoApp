@@ -24,7 +24,7 @@ Simple task manager with full CRUD operations and persistence in SQL Server. Cre
    ```bash
    git clone https://github.com/YourUsername/ToDoApp.git
 
-2.Open in VS Code.
+2. Open in VS Code.
 
 3. Update the **database connection string** in your configuration. Modify the `Data Source` or file path and adjust column names if your schema differs.
    
