@@ -1,0 +1,1 @@
+UPDATE [ToDoList] SET IsCompleted = @iscompleted WHERE Name = @name

@@ -1,0 +1,1 @@
+DELETE FROM [ToDoList] WHERE Title = @title

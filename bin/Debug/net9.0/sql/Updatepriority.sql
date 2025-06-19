@@ -1,0 +1,1 @@
+UPDATE [ToDoList] SET Priority = @newpriority WHERE Priority = @priority

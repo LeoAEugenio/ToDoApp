@@ -1,0 +1,1 @@
+UPDATE [ToDoList] SET Name = @newname WHERE Name = @name
