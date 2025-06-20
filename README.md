@@ -21,7 +21,7 @@ Simple task manager with full CRUD operations and persistence in SQL Server. Cre
 
 1. **Clone the repository**  
    ```bash
-   git clone https://github.com/YourUsername/ToDoApp.git
+   git clone https://github.com/LeoAEugenio/ToDoApp.git
 
 2. Open in VS Code.
 
