@@ -12,8 +12,7 @@ Simple task manager with full CRUD operations and persistence in SQL Server. Cre
 
 ## Technologies
 
-- .NET 9 (C#)  
-- Microsoft.Data.SqlClient  
+- .NET (C#)  
 - SQL Server  
 
 ---
